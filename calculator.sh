@@ -16,3 +16,4 @@ a=8*9
 
 
 #Percentage
+a = 10%10
